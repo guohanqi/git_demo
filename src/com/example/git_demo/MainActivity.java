@@ -35,6 +35,11 @@ public class MainActivity extends ActionBarActivity {
 		System.out.println("这是第二次提交的,,,,,,,真的是第二次,为什么eclipse不会自动编译");
 		System.out.println("这是第三次提交的,,,,,,,检查第二次为什么没有远程提交成功");
 		
+		
+		System.out.println("第五次修改");
+		System.out.println("第五次修改");
+		System.out.println("第五次修改");
+		System.out.println("第五次修改");
 		return true;
 	}
 
